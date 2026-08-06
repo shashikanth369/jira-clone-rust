@@ -1,0 +1,18 @@
+{
+    "last_item_id": 4,
+    "epics": {
+        "2": {
+            "name": "Epic-2026-1",
+            "description": "Learn rust zero to hero",
+            "status": "Open",
+            "stories": []
+        }
+    },
+    "stories": {
+        "1": {
+            "name": "story-rust-ownership",
+            "description": "Learn rust ownership and borrow",
+            "status": "Open"
+        }
+    }
+}
